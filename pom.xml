@@ -8,7 +8,7 @@
     <artifactId>cicd-integration</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalName>cicd-integrationgit add README.mdgit g</finalName>
+    <finalName>cicd-integration</finalName>
 </build>
 
 </project>
